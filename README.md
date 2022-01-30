@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @hayagreevchintu
+- 👋 Hi, I’m @hayagreevvaradarajan
 - 📫 Email me at hayagreev.varadarajan@outlook.com to connect!
 -Drop a dm or a tweet at https://twitter.com/hayaprogress to connect. I'd love to meet new fellow software developers!
 - My HackerRank profile: hackerrank.com/hayagreevchintu
